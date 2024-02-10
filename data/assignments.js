@@ -224,7 +224,7 @@ assignments = {
       "title": "Hammer Project",
       "course": "ME 263",
       "dueDate": "2024-04-20T22:00:00",
-      "link": "https://www.gradescope.com/courses/701428/assignments/3946286/submissions/228121480",
+      "link": "https://www.gradescope.com/courses/701428/assignments/3946286/submissions/229548296",
       "submitted": true
     },
     {
