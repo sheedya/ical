@@ -375,13 +375,6 @@ assignments = {
       "dueDate": "2024-02-09T15:20:00",
       "link": "https://www.gradescope.com/courses/692071/assignments/4056649/submissions/229257408",
       "submitted": true
-    },
-    {
-      "title": "Review Section Response",
-      "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
-      "dueDate": "2024-02-08T08:35:00",
-      "link": "https://www.gradescope.com/courses/692071",
-      "submitted": false
     }
   ]
 };
