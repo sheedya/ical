@@ -230,7 +230,7 @@ assignments = {
     {
       "title": "Final Draft Report #1",
       "course": "ME 263",
-      "dueDate": "2024-02-13T22:00:00",
+      "dueDate": "2024-02-13T23:59:00",
       "link": "https://www.gradescope.com/courses/701428",
       "submitted": false
     },
@@ -240,6 +240,34 @@ assignments = {
       "dueDate": "2024-02-09T00:00:00",
       "link": "https://www.gradescope.com/courses/701428/assignments/4075021/submissions/228868315",
       "submitted": true
+    },
+    {
+      "title": "Deliverable 8: Functional Decomposition",
+      "course": "ME 263",
+      "dueDate": "2024-02-20T22:00:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Deliverable 9: Individual Sketch",
+      "course": "ME 263",
+      "dueDate": "2024-02-22T22:00:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Deliverable 10: Concept Selection & Decision Matrix",
+      "course": "ME 263",
+      "dueDate": "2024-02-27T22:00:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Peer Evaluation",
+      "course": "ME 263",
+      "dueDate": "2024-02-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
     }
   ],
   "ME 274 - (2:30-3:20 PM - Gibert Section)": [
