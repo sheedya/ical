@@ -231,8 +231,8 @@ assignments = {
       "title": "Final Draft Report #1",
       "course": "ME 263",
       "dueDate": "2024-02-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4039329/submissions/230500495",
+      "submitted": true
     },
     {
       "title": "Oral Report #1 Slides",
