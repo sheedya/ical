@@ -268,6 +268,20 @@ assignments = {
       "dueDate": "2024-02-13T23:59:00",
       "link": "https://www.gradescope.com/courses/701428/assignments/4098251/submissions/230544971",
       "submitted": true
+    },
+    {
+      "title": "Deliverable 11: BOM & Concept Description",
+      "course": "ME 263",
+      "dueDate": "2024-02-29T22:00:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Deliverable 12: Financial Analysis",
+      "course": "ME 263",
+      "dueDate": "2024-03-07T22:00:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
     }
   ],
   "ME 274 - (2:30-3:20 PM - Gibert Section)": [
