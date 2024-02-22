@@ -252,8 +252,8 @@ assignments = {
       "title": "Deliverable 9: Individual Sketch",
       "course": "ME 263",
       "dueDate": "2024-02-22T22:00:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4098099/submissions/233269816",
+      "submitted": true
     },
     {
       "title": "Deliverable 10: Concept Selection & Decision Matrix",
