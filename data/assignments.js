@@ -60,7 +60,7 @@ assignments = {
     {
       "title": "Experiment 5 Notebook",
       "course": "ECE20007-SP24-Wednesday",
-      "dueDate": "2024-03-06T23:59:00",
+      "dueDate": "2024-02-28T23:59:00",
       "link": "https://www.gradescope.com/courses/692590",
       "submitted": false
     },
@@ -95,7 +95,7 @@ assignments = {
     {
       "title": "Experiment 5 Writeup",
       "course": "ECE20007-SP24-Wednesday",
-      "dueDate": "2024-03-06T23:59:00",
+      "dueDate": "2024-02-28T23:59:00",
       "link": "https://www.gradescope.com/courses/692590",
       "submitted": false
     },
@@ -123,7 +123,7 @@ assignments = {
     {
       "title": "Experiment 6 Writeup",
       "course": "ECE20007-SP24-Wednesday",
-      "dueDate": "2024-03-13T23:59:00",
+      "dueDate": "2024-03-06T23:59:00",
       "link": "https://www.gradescope.com/courses/692590",
       "submitted": false
     },
@@ -144,7 +144,7 @@ assignments = {
     {
       "title": "Experiment 6 Notebook",
       "course": "ECE20007-SP24-Wednesday",
-      "dueDate": "2024-03-13T23:00:00",
+      "dueDate": "2024-03-06T23:00:00",
       "link": "https://www.gradescope.com/courses/692590",
       "submitted": false
     },
