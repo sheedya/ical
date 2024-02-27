@@ -272,7 +272,7 @@ assignments = {
     {
       "title": "Deliverable 11: BOM & Concept Description",
       "course": "ME 263",
-      "dueDate": "2024-02-29T22:00:00",
+      "dueDate": "2024-03-05T22:00:00",
       "link": "https://www.gradescope.com/courses/701428",
       "submitted": false
     },
