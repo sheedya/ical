@@ -259,8 +259,8 @@ assignments = {
       "title": "Deliverable 10: Concept Selection & Decision Matrix",
       "course": "ME 263",
       "dueDate": "2024-02-27T22:00:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4098106/submissions/234771729",
+      "submitted": true
     },
     {
       "title": "Peer Evaluation",
@@ -287,8 +287,8 @@ assignments = {
       "title": "Problem Definition Review/Introduction/Project Plan Draft Report #2",
       "course": "ME 263",
       "dueDate": "2024-02-27T22:00:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4133156/submissions/234773803",
+      "submitted": true
     }
   ],
   "ME 274 - (2:30-3:20 PM - Gibert Section)": [
