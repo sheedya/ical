@@ -289,6 +289,13 @@ assignments = {
       "dueDate": "2024-02-27T22:00:00",
       "link": "https://www.gradescope.com/courses/701428/assignments/4133156/submissions/234773803",
       "submitted": true
+    },
+    {
+      "title": "Full Draft Report #2",
+      "course": "ME 263",
+      "dueDate": "2024-03-07T22:00:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
     }
   ],
   "ME 274 - (2:30-3:20 PM - Gibert Section)": [
