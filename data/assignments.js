@@ -454,6 +454,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 22 - (H.4.M, H.4.N)",
+      "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
+      "dueDate": "2024-03-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/692071",
+      "submitted": false
+    },
+    {
       "title": "Quiz 1",
       "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
       "dueDate": "2024-01-12T15:25:00",
