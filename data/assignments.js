@@ -508,6 +508,13 @@ assignments = {
       "dueDate": "2024-02-21T15:30:00",
       "link": "https://www.gradescope.com/courses/692071/assignments/4126440/submissions/232855988",
       "submitted": true
+    },
+    {
+      "title": "Quiz 6 Version 2",
+      "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
+      "dueDate": "2024-03-04T15:20:00",
+      "link": "https://www.gradescope.com/courses/692071/assignments/4192494/submissions/236430083",
+      "submitted": true
     }
   ]
 };
