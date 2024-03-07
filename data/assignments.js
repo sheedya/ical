@@ -280,8 +280,8 @@ assignments = {
       "title": "Deliverable 12: Financial Analysis",
       "course": "ME 263",
       "dueDate": "2024-03-07T22:00:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4110188/submissions/237435255",
+      "submitted": true
     },
     {
       "title": "Problem Definition Review/Introduction/Project Plan Draft Report #2",
