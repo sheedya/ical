@@ -124,8 +124,8 @@ assignments = {
       "title": "Experiment 6 Writeup",
       "course": "ECE20007-SP24-Wednesday",
       "dueDate": "2024-03-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/692590",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692590/assignments/3854941/submissions/237229233",
+      "submitted": true
     },
     {
       "title": "Project 1 Report",
@@ -145,8 +145,8 @@ assignments = {
       "title": "Experiment 6 Notebook",
       "course": "ECE20007-SP24-Wednesday",
       "dueDate": "2024-03-06T23:00:00",
-      "link": "https://www.gradescope.com/courses/692590",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692590/assignments/3854944/submissions/237233147",
+      "submitted": true
     },
     {
       "title": "Experiment 1 Notebook",
@@ -464,8 +464,8 @@ assignments = {
       "title": "Homework 23 - (H.4.O, H.4.P)",
       "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
       "dueDate": "2024-03-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/692071",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692071/assignments/3896978/submissions/237232868",
+      "submitted": true
     },
     {
       "title": "Homework 24 - (H.4.Q, H.4.R)",
