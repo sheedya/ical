@@ -294,8 +294,8 @@ assignments = {
       "title": "Full Draft Report #2",
       "course": "ME 263",
       "dueDate": "2024-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4133166/submissions/237577971",
+      "submitted": true
     },
     {
       "title": "Final Draft Report #2",
