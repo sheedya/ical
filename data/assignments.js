@@ -46,7 +46,7 @@ assignments = {
     {
       "title": "Experiment 8 Notebook",
       "course": "ECE20007-SP24-Wednesday",
-      "dueDate": "2024-04-03T23:59:00",
+      "dueDate": "2024-03-27T23:59:00",
       "link": "https://www.gradescope.com/courses/692590",
       "submitted": false
     },
@@ -88,7 +88,7 @@ assignments = {
     {
       "title": "Experiment 8 Writeup",
       "course": "ECE20007-SP24-Wednesday",
-      "dueDate": "2024-04-03T23:59:00",
+      "dueDate": "2024-03-27T23:59:00",
       "link": "https://www.gradescope.com/courses/692590",
       "submitted": false
     },
