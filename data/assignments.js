@@ -303,6 +303,13 @@ assignments = {
       "dueDate": "2024-03-26T23:59:00",
       "link": "https://www.gradescope.com/courses/701428",
       "submitted": false
+    },
+    {
+      "title": "Oral Report #2",
+      "course": "ME 263",
+      "dueDate": "2024-03-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
     }
   ],
   "ME 274 - (2:30-3:20 PM - Gibert Section)": [
