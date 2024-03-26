@@ -223,7 +223,7 @@ assignments = {
     {
       "title": "Hammer Project",
       "course": "ME 263",
-      "dueDate": "2024-04-20T22:00:00",
+      "dueDate": "2024-04-09T11:59:00",
       "link": "https://www.gradescope.com/courses/701428/assignments/3946286/submissions/229548296",
       "submitted": true
     },
@@ -310,6 +310,48 @@ assignments = {
       "dueDate": "2024-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/701428/assignments/4250012/submissions/241394845",
       "submitted": true
+    },
+    {
+      "title": "Deliverable 13: Assembly Analysis",
+      "course": "ME 263",
+      "dueDate": "2024-04-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Deliverable 14: Engineering Drawings (Individual)",
+      "course": "ME 263",
+      "dueDate": "2024-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Deliverable 14: Engineering Drawings (Team)",
+      "course": "ME 263",
+      "dueDate": "2024-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Deliverable 15: Tolerance Stack-ups",
+      "course": "ME 263",
+      "dueDate": "2024-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Deliverable 16: Engineering Modeling",
+      "course": "ME 263",
+      "dueDate": "2024-04-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Poster Submission",
+      "course": "ME 263",
+      "dueDate": "2024-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
     }
   ],
   "ME 274 - (2:30-3:20 PM - Gibert Section)": [
