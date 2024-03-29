@@ -562,8 +562,8 @@ assignments = {
       "title": "Homework 30 - (H.5.G, H.5.H)",
       "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
       "dueDate": "2024-03-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/692071",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692071/assignments/3897027/submissions/242852208",
+      "submitted": true
     },
     {
       "title": "Homework 31 - (H.5.I, H.5.J)",
