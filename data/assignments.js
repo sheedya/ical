@@ -315,8 +315,8 @@ assignments = {
       "title": "Deliverable 13: Assembly Analysis",
       "course": "ME 263",
       "dueDate": "2024-04-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4279270/submissions/243630829",
+      "submitted": true
     },
     {
       "title": "Deliverable 14: Engineering Drawings (Individual)",
