@@ -641,6 +641,13 @@ assignments = {
       "dueDate": "2024-04-01T15:33:00",
       "link": "https://www.gradescope.com/courses/692071/assignments/4300943/submissions/243259375",
       "submitted": true
+    },
+    {
+      "title": "Exam 2 ME 274",
+      "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
+      "dueDate": "2024-04-02T21:45:00",
+      "link": "https://www.gradescope.com/courses/692071/assignments/4302251/submissions/243620634",
+      "submitted": true
     }
   ]
 };
