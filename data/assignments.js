@@ -329,8 +329,8 @@ assignments = {
       "title": "Deliverable 14: CAD Assembly (Team)",
       "course": "ME 263",
       "dueDate": "2024-04-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4279298/submissions/244193212",
+      "submitted": true
     },
     {
       "title": "Deliverable 15: Tolerance Stack-ups",
