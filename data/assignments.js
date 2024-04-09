@@ -223,7 +223,7 @@ assignments = {
     {
       "title": "Hammer Project",
       "course": "ME 263",
-      "dueDate": "2024-04-09T11:59:00",
+      "dueDate": "2024-04-09T23:59:00",
       "link": "https://www.gradescope.com/courses/701428/assignments/3946286/submissions/229548296",
       "submitted": true
     },
@@ -350,6 +350,13 @@ assignments = {
       "title": "Deliverable 14: Individual Engineering Drawing",
       "course": "ME 263",
       "dueDate": "2024-04-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/701428",
+      "submitted": false
+    },
+    {
+      "title": "Introduction/Problem Definition Review/Concept Generation Review Report #3 Draft",
+      "course": "ME 263",
+      "dueDate": "2024-04-11T23:59:00",
       "link": "https://www.gradescope.com/courses/701428",
       "submitted": false
     }
