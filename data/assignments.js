@@ -26,8 +26,8 @@ assignments = {
       "title": "Project 2 Notebook",
       "course": "ECE20007-SP24-Wednesday",
       "dueDate": "2024-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/692590",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692590/assignments/3854927/submissions/245744626",
+      "submitted": true
     },
     {
       "title": "Experiment 10 Notebook",
@@ -103,8 +103,8 @@ assignments = {
       "title": "Project 2 Report (updated)",
       "course": "ECE20007-SP24-Wednesday",
       "dueDate": "2024-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/692590",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692590/assignments/3854938/submissions/245749860",
+      "submitted": true
     },
     {
       "title": "Experiment 3 Notebook",
