@@ -357,8 +357,8 @@ assignments = {
       "title": "Introduction/Problem Definition Review/Concept Generation Review Report #3 Draft",
       "course": "ME 263",
       "dueDate": "2024-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4339410/submissions/246072488",
+      "submitted": true
     }
   ],
   "ME 274 - (2:30-3:20 PM - Gibert Section)": [
