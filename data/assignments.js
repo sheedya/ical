@@ -33,8 +33,8 @@ assignments = {
       "title": "Experiment 10 Notebook",
       "course": "ECE20007-SP24-Wednesday",
       "dueDate": "2024-04-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/692590",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692590/assignments/3854928/submissions/247429642",
+      "submitted": true
     },
     {
       "title": "Experiment 1 Writeup",
