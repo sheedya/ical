@@ -5,8 +5,8 @@ assignments = {
       "title": "Experiment 10 Writeup",
       "course": "ECE20007-SP24-Wednesday",
       "dueDate": "2024-04-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/692590",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692590/assignments/3854924/submissions/247581250",
+      "submitted": true
     },
     {
       "title": "Experiment 2 Writeup",
