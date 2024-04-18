@@ -692,7 +692,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Quiz Review Chap 4 and 5",
+      "title": "Quiz 7:  Review Chap 4 and 5",
       "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
       "dueDate": "2024-04-01T15:33:00",
       "link": "https://www.gradescope.com/courses/692071/assignments/4300943/submissions/243259375",
