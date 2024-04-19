@@ -718,6 +718,13 @@ assignments = {
       "dueDate": "2024-04-02T21:45:00",
       "link": "https://www.gradescope.com/courses/692071/assignments/4302251/submissions/243620634",
       "submitted": true
+    },
+    {
+      "title": "Quiz 8: Free vibrations",
+      "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
+      "dueDate": "2024-04-19T15:20:00",
+      "link": "https://www.gradescope.com/courses/692071/assignments/4375385/submissions/248261477",
+      "submitted": true
     }
   ]
 };
