@@ -646,8 +646,8 @@ assignments = {
       "title": "Homework 39 - (H.6.I, H.6.J)",
       "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
       "dueDate": "2024-04-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/692071",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/692071/assignments/3897076/submissions/248782434",
+      "submitted": true
     },
     {
       "title": "Quiz 1",
