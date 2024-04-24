@@ -364,8 +364,8 @@ assignments = {
       "title": "Final Report Final Draft",
       "course": "ME 263",
       "dueDate": "2024-04-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/701428",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701428/assignments/4369243/submissions/249447321",
+      "submitted": true
     },
     {
       "title": "Final Oral Report",
