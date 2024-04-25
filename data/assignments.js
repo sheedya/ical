@@ -725,6 +725,13 @@ assignments = {
       "dueDate": "2024-04-19T15:20:00",
       "link": "https://www.gradescope.com/courses/692071/assignments/4375385/submissions/248261477",
       "submitted": true
+    },
+    {
+      "title": "Data Science",
+      "course": "ME 274 - (2:30-3:20 PM - Gibert Section)",
+      "dueDate": "2024-04-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/692071",
+      "submitted": false
     }
   ]
 };
