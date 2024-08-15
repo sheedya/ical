@@ -1,3 +1,3 @@
 assignments = {
-  "wl.202510.ME.30800.001": []
+  "Fall 2024 ME 30800 - Merge": []
 };
