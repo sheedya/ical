@@ -4,8 +4,8 @@ assignments = {
       "title": "HW00",
       "course": "Fall 2024 ME 30800 - Merge",
       "dueDate": "2024-08-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/823015",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823015/assignments/4762900/submissions/262081118",
+      "submitted": true
     }
   ],
   "ME32301": [
