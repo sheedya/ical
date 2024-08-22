@@ -15,6 +15,13 @@ assignments = {
       "dueDate": "2024-08-23T23:59:00",
       "link": "https://www.gradescope.com/courses/826855/assignments/4748934/submissions/261929450",
       "submitted": true
+    },
+    {
+      "title": "Safety Quiz",
+      "course": "ME32301",
+      "dueDate": "2024-08-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/826855/assignments/4783882/submissions/new",
+      "submitted": false
     }
   ],
   "wl.202510.ME.36500.073": [
