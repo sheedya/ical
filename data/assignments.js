@@ -20,15 +20,15 @@ assignments = {
       "title": "Homework 1",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-08-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/4793833/submissions/263467290",
+      "submitted": true
     },
     {
       "title": "Homework 1-Conceptual",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-08-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723/assignments/4793834/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/4793834/submissions/263466537",
+      "submitted": true
     },
     {
       "title": "Homework 2",
