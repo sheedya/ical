@@ -80,8 +80,8 @@ assignments = {
       "title": "Homework 1",
       "course": "wl.202510.ME.36500.073",
       "dueDate": "2024-09-03T18:00:00",
-      "link": "https://www.gradescope.com/courses/820474",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/820474/assignments/4757522/submissions/263892322",
+      "submitted": true
     },
     {
       "title": "Prelab 1",
