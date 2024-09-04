@@ -73,6 +73,13 @@ assignments = {
       "dueDate": "2024-09-06T23:59:00",
       "link": "https://www.gradescope.com/courses/826855/assignments/4819659/submissions/263991495",
       "submitted": true
+    },
+    {
+      "title": "Lab 2 Memo",
+      "course": "ME32301",
+      "dueDate": "2024-09-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/826855",
+      "submitted": false
     }
   ],
   "wl.202510.ME.36500.073": [
