@@ -41,8 +41,8 @@ assignments = {
       "title": "Homework 2",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-09-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/4852665/submissions/265066990",
+      "submitted": true
     },
     {
       "title": "Homework 2-Conceptual",
