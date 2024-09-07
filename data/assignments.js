@@ -129,8 +129,8 @@ assignments = {
       "title": "Lab 1",
       "course": "wl.202510.ME.36500.073",
       "dueDate": "2024-09-10T18:00:00",
-      "link": "https://www.gradescope.com/courses/820474",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/820474/assignments/4832831/submissions/265226338",
+      "submitted": true
     },
     {
       "title": "Simulink HW1",
