@@ -168,6 +168,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 3",
+      "course": "wl.202510.ME.36500.073",
+      "dueDate": "2024-10-01T18:00:00",
+      "link": "https://www.gradescope.com/courses/820474",
+      "submitted": false
+    },
+    {
       "title": "Lab 2",
       "course": "wl.202510.ME.36500.073",
       "dueDate": "2024-09-24T18:00:00",
