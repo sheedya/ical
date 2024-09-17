@@ -136,8 +136,8 @@ assignments = {
       "title": "Homework 2",
       "course": "wl.202510.ME.36500.073",
       "dueDate": "2024-09-17T18:00:00",
-      "link": "https://www.gradescope.com/courses/820474",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/820474/assignments/4757581/submissions/268095520",
+      "submitted": true
     },
     {
       "title": "Prelab 1",
@@ -171,6 +171,13 @@ assignments = {
       "title": "Lab 2",
       "course": "wl.202510.ME.36500.073",
       "dueDate": "2024-09-24T18:00:00",
+      "link": "https://www.gradescope.com/courses/820474",
+      "submitted": false
+    },
+    {
+      "title": "Prelab 3",
+      "course": "wl.202510.ME.36500.073",
+      "dueDate": "2024-09-23T07:00:00",
       "link": "https://www.gradescope.com/courses/820474",
       "submitted": false
     }
