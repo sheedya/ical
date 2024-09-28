@@ -152,6 +152,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Mid Term Extra Credit Survey",
+      "course": "ME32301",
+      "dueDate": "2024-10-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/826855/assignments/4959469/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Lab 3/4 Memo",
       "course": "ME32301",
       "dueDate": "2024-09-27T23:59:00",
