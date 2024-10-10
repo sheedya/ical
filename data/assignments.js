@@ -139,8 +139,8 @@ assignments = {
       "title": "Homework 6-Conceptual",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-10-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723/assignments/5107256/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/5107256/submissions/276624521",
+      "submitted": true
     }
   ],
   "ME32301": [
@@ -176,8 +176,8 @@ assignments = {
       "title": "Mid Term Extra Credit Survey",
       "course": "ME32301",
       "dueDate": "2024-10-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/826855/assignments/4959469/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826855/assignments/4959469/submissions/276636522",
+      "submitted": true
     },
     {
       "title": "Lab 3/4 Memo",
