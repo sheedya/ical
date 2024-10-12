@@ -48,6 +48,13 @@ assignments = {
       "dueDate": "2024-10-11T23:59:00",
       "link": "https://www.gradescope.com/courses/823015/assignments/4840195/submissions/277142836",
       "submitted": true
+    },
+    {
+      "title": "HW07",
+      "course": "Fall 2024 ME 30800 - Merge",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/823015",
+      "submitted": false
     }
   ],
   "ME 323-Fall 2024 (3:30section)-Kokini": [
