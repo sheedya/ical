@@ -283,8 +283,8 @@ assignments = {
       "title": "Homework 4",
       "course": "wl.202510.ME.36500.073",
       "dueDate": "2024-10-15T18:00:00",
-      "link": "https://www.gradescope.com/courses/820474",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/820474/assignments/4971757/submissions/278191773",
+      "submitted": true
     },
     {
       "title": "Lab 2",
