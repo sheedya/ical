@@ -320,6 +320,13 @@ assignments = {
       "dueDate": "2024-10-22T18:00:00",
       "link": "https://www.gradescope.com/courses/820474",
       "submitted": false
+    },
+    {
+      "title": "Homework 5",
+      "course": "wl.202510.ME.36500.073",
+      "dueDate": "2024-10-29T18:00:00",
+      "link": "https://www.gradescope.com/courses/820474",
+      "submitted": false
     }
   ]
 };
