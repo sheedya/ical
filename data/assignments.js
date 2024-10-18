@@ -53,8 +53,8 @@ assignments = {
       "title": "HW07",
       "course": "Fall 2024 ME 30800 - Merge",
       "dueDate": "2024-10-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/823015",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823015/assignments/4840223/submissions/279541790",
+      "submitted": true
     }
   ],
   "ME 323-Fall 2024 (3:30section)-Kokini": [
@@ -153,15 +153,15 @@ assignments = {
       "title": "Homework 7",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-10-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/5148203/submissions/279547038",
+      "submitted": true
     },
     {
       "title": "Homework 7-Conceptual",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-10-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723/assignments/5148206/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/5148206/submissions/279547390",
+      "submitted": true
     }
   ],
   "ME32301": [
