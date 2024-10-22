@@ -246,8 +246,8 @@ assignments = {
       "title": "Lab 7 Memo",
       "course": "ME32301",
       "dueDate": "2024-10-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/826855",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826855/assignments/5138784/submissions/280713039",
+      "submitted": true
     },
     {
       "title": "Lab 8 Memo",
