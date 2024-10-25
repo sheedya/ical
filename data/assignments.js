@@ -60,8 +60,8 @@ assignments = {
       "title": "HW08",
       "course": "Fall 2024 ME 30800 - Merge",
       "dueDate": "2024-10-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/823015",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823015/assignments/4840226/submissions/282165784",
+      "submitted": true
     }
   ],
   "ME 323-Fall 2024 (3:30section)-Kokini": [
@@ -174,15 +174,15 @@ assignments = {
       "title": "Homework 8",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-10-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/5185968/submissions/282155899",
+      "submitted": true
     },
     {
       "title": "Homework 8-Conceptual",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-10-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723/assignments/5185977/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/5185977/submissions/282168043",
+      "submitted": true
     }
   ],
   "ME32301": [
@@ -367,6 +367,13 @@ assignments = {
       "title": "Lab 5",
       "course": "wl.202510.ME.36500.073",
       "dueDate": "2024-11-05T18:00:00",
+      "link": "https://www.gradescope.com/courses/820474",
+      "submitted": false
+    },
+    {
+      "title": "Prelab 6",
+      "course": "wl.202510.ME.36500.073",
+      "dueDate": "2024-11-06T07:00:00",
       "link": "https://www.gradescope.com/courses/820474",
       "submitted": false
     }
