@@ -195,15 +195,15 @@ assignments = {
       "title": "Homework 9",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-11-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/5226885/submissions/283418405",
+      "submitted": true
     },
     {
       "title": "Homework 9-Conceptual",
       "course": "ME 323-Fall 2024 (3:30section)-Kokini",
       "dueDate": "2024-11-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/821723/assignments/5226887/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821723/assignments/5226887/submissions/283416448",
+      "submitted": true
     }
   ],
   "ME32301": [
