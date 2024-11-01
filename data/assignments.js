@@ -404,6 +404,13 @@ assignments = {
       "dueDate": "2024-11-12T18:00:00",
       "link": "https://www.gradescope.com/courses/820474",
       "submitted": false
+    },
+    {
+      "title": "Lab 6",
+      "course": "wl.202510.ME.36500.073",
+      "dueDate": "2024-11-26T18:00:00",
+      "link": "https://www.gradescope.com/courses/820474",
+      "submitted": false
     }
   ]
 };
