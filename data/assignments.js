@@ -211,6 +211,13 @@ assignments = {
       "dueDate": "2024-11-01T23:59:00",
       "link": "https://www.gradescope.com/courses/821723/assignments/5226887/submissions/283416448",
       "submitted": true
+    },
+    {
+      "title": "Exam 2",
+      "course": "ME 323-Fall 2024 (3:30section)-Kokini",
+      "dueDate": "2024-11-06T23:00:00",
+      "link": "https://www.gradescope.com/courses/821723",
+      "submitted": false
     }
   ],
   "ME32301": [
