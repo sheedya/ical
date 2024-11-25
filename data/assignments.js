@@ -346,6 +346,13 @@ assignments = {
       "dueDate": "2024-11-15T23:59:00",
       "link": "https://www.gradescope.com/courses/826855/assignments/5257502/submissions/288193965",
       "submitted": true
+    },
+    {
+      "title": "Final Evaluation Confirmation (2% Extra Credit)",
+      "course": "ME32301",
+      "dueDate": "2024-12-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/826855",
+      "submitted": false
     }
   ],
   "wl.202510.ME.36500.073": [
