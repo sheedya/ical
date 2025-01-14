@@ -7,5 +7,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/948547",
       "submitted": false
     }
-  ]
+  ],
+  "ME30801": []
 };
