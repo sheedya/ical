@@ -29,7 +29,22 @@ assignments = {
       "submitted": false
     }
   ],
-  "ME30801": [],
+  "ME30801": [
+    {
+      "title": "Div 1: Wk06 - Lab 2 Report",
+      "course": "ME30801",
+      "dueDate": "2025-02-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/946327",
+      "submitted": false
+    },
+    {
+      "title": "Div 1: Wk05 - Lab 1 Report",
+      "course": "ME30801",
+      "dueDate": "2025-02-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/946327",
+      "submitted": false
+    }
+  ],
   "wl.202520.ME.37500": [
     {
       "title": "HW1",
