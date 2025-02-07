@@ -31,7 +31,7 @@ assignments = {
     {
       "title": "Exam 1",
       "course": "ME 354",
-      "dueDate": "2025-02-06T21:50:00",
+      "dueDate": "2025-02-06T22:10:00",
       "link": "https://www.gradescope.com/courses/948547",
       "submitted": false
     }
