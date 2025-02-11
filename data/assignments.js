@@ -34,6 +34,27 @@ assignments = {
       "dueDate": "2025-02-18T23:59:00",
       "link": "https://www.gradescope.com/courses/948547",
       "submitted": false
+    },
+    {
+      "title": "Exam 1 - Problem 1 resubmission",
+      "course": "ME 354",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/948547",
+      "submitted": false
+    },
+    {
+      "title": "Exam 1 - Problem 2 resubmission",
+      "course": "ME 354",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/948547",
+      "submitted": false
+    },
+    {
+      "title": "Exam 1 - Problem 3 resubmission",
+      "course": "ME 354",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/948547",
+      "submitted": false
     }
   ],
   "ME30801": [
