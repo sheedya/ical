@@ -29,6 +29,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Exam 1",
+      "course": "ME 354",
+      "dueDate": "2025-02-06T22:10:00",
+      "link": "https://www.gradescope.com/courses/948547/assignments/5746537/submissions/306170233",
+      "submitted": true
+    },
+    {
       "title": "Homework 4",
       "course": "ME 354",
       "dueDate": "2025-02-18T23:59:00",
