@@ -62,6 +62,20 @@ assignments = {
       "dueDate": "2025-02-12T23:59:00",
       "link": "https://www.gradescope.com/courses/948547",
       "submitted": false
+    },
+    {
+      "title": "Project: instructor meeting",
+      "course": "ME 354",
+      "dueDate": "2025-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/948547",
+      "submitted": false
+    },
+    {
+      "title": "Project: video submission",
+      "course": "ME 354",
+      "dueDate": "2025-04-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/948547/assignments/5792417/submissions/new",
+      "submitted": false
     }
   ],
   "ME30801": [
