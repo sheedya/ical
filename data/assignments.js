@@ -32,8 +32,8 @@ assignments = {
       "title": "Homework 4",
       "course": "ME 354",
       "dueDate": "2025-02-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/948547",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948547/assignments/5765904/submissions/309851062",
+      "submitted": true
     },
     {
       "title": "Exam 1 - Problem 1 resubmission",
