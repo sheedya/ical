@@ -90,8 +90,8 @@ assignments = {
       "title": "Div 1: Wk06 - Lab 2 Report",
       "course": "ME30801",
       "dueDate": "2025-02-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/946327",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/946327/assignments/5694351/submissions/310973965",
+      "submitted": true
     },
     {
       "title": "Div 1: Wk05 - Lab 1 Report",
