@@ -164,6 +164,13 @@ assignments = {
       "dueDate": "2025-02-18T18:00:00",
       "link": "https://www.gradescope.com/courses/937531/assignments/5803332/submissions/309719651",
       "submitted": true
+    },
+    {
+      "title": "Exam 1 rework assignment",
+      "course": "wl.202520.ME.37500",
+      "dueDate": "2025-02-27T18:00:00",
+      "link": "https://www.gradescope.com/courses/937531/assignments/5831320/submissions/new",
+      "submitted": false
     }
   ]
 };
