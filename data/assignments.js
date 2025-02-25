@@ -83,6 +83,13 @@ assignments = {
       "dueDate": "2025-02-18T08:40:00",
       "link": "https://www.gradescope.com/courses/948547",
       "submitted": false
+    },
+    {
+      "title": "HW 6",
+      "course": "ME 354",
+      "dueDate": "2025-02-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/948547",
+      "submitted": false
     }
   ],
   "ME30801": [
