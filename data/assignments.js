@@ -148,8 +148,8 @@ assignments = {
       "title": "Lab 2",
       "course": "wl.202520.ME.37500",
       "dueDate": "2025-02-25T18:00:00",
-      "link": "https://www.gradescope.com/courses/937531",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/937531/assignments/5758170/submissions/311846069",
+      "submitted": true
     },
     {
       "title": "Prelab 3",
