@@ -118,8 +118,8 @@ assignments = {
       "title": "Div 1: Wk07 - Lab 3 Report",
       "course": "ME30801",
       "dueDate": "2025-03-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/946327",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/946327/assignments/5773643/submissions/313806215",
+      "submitted": true
     },
     {
       "title": "Div 1: Wk08 - Open Lab Project Draft Proposal",
