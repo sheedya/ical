@@ -125,15 +125,15 @@ assignments = {
       "title": "Div 1: Wk08 - Open Lab Project Draft Proposal",
       "course": "ME30801",
       "dueDate": "2025-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/946327",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/946327/assignments/5776858/submissions/315559843",
+      "submitted": true
     },
     {
       "title": "Div 1: Wk08 - Lab 4 Report",
       "course": "ME30801",
       "dueDate": "2025-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/946327",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/946327/assignments/5886186/submissions/315558428",
+      "submitted": true
     }
   ],
   "wl.202520.ME.37500": [
