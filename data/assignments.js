@@ -85,7 +85,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Quiz 2 (Boregowda)",
+      "title": "Quiz 02 (Boregowda)",
       "course": "ME 354",
       "dueDate": "2025-03-05T23:59:00",
       "link": "https://www.gradescope.com/courses/948547",
