@@ -97,6 +97,13 @@ assignments = {
       "dueDate": "2025-03-04T23:59:00",
       "link": "https://www.gradescope.com/courses/948547/assignments/5848152/submissions/314497294",
       "submitted": true
+    },
+    {
+      "title": "Quiz 03 (Boregowda)",
+      "course": "ME 354",
+      "dueDate": "2025-03-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/948547",
+      "submitted": false
     }
   ],
   "ME30801": [
