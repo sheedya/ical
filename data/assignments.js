@@ -78,13 +78,6 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Quiz 5 (Simionescu): Feb 17",
-      "course": "ME 354",
-      "dueDate": "2025-02-18T08:40:00",
-      "link": "https://www.gradescope.com/courses/948547",
-      "submitted": false
-    },
-    {
       "title": "Quiz 02 (Boregowda)",
       "course": "ME 354",
       "dueDate": "2025-03-05T23:59:00",
