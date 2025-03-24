@@ -141,6 +141,20 @@ assignments = {
       "dueDate": "2025-03-07T23:59:00",
       "link": "https://www.gradescope.com/courses/946327/assignments/5886186/submissions/315558428",
       "submitted": true
+    },
+    {
+      "title": "Division 1 & 2: Wk 11 - Open Lab Project Final Proposal",
+      "course": "ME30801",
+      "dueDate": "2025-03-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/946327",
+      "submitted": false
+    },
+    {
+      "title": "Div 1: Wk011 - Lab 5 Report",
+      "course": "ME30801",
+      "dueDate": "2025-03-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/946327",
+      "submitted": false
     }
   ],
   "wl.202520.ME.37500": [
