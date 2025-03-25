@@ -232,8 +232,8 @@ assignments = {
       "title": "HW5",
       "course": "wl.202520.ME.37500",
       "dueDate": "2025-03-25T18:00:00",
-      "link": "https://www.gradescope.com/courses/937531",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/937531/assignments/5806703/submissions/319807187",
+      "submitted": true
     },
     {
       "title": "Exam 1 rework assignment",
