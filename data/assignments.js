@@ -109,8 +109,8 @@ assignments = {
       "title": "Homework 7",
       "course": "ME 354",
       "dueDate": "2025-03-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/948547",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948547/assignments/5934791/submissions/320769289",
+      "submitted": true
     },
     {
       "title": "Homework 8",
@@ -159,7 +159,7 @@ assignments = {
     {
       "title": "Division 1 & 2: Wk 11 - Open Lab Project Final Proposal",
       "course": "ME30801",
-      "dueDate": "2025-03-30T23:59:00",
+      "dueDate": "2025-04-06T23:59:00",
       "link": "https://www.gradescope.com/courses/946327",
       "submitted": false
     },
