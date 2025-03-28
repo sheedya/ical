@@ -115,7 +115,7 @@ assignments = {
     {
       "title": "Homework 8",
       "course": "ME 354",
-      "dueDate": "2025-04-01T23:59:00",
+      "dueDate": "2025-04-03T23:59:00",
       "link": "https://www.gradescope.com/courses/948547",
       "submitted": false
     }
