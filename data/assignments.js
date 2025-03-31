@@ -276,6 +276,13 @@ assignments = {
       "dueDate": "2025-03-31T08:00:00",
       "link": "https://www.gradescope.com/courses/937531/assignments/5977000/submissions/321134851",
       "submitted": true
+    },
+    {
+      "title": "Lab 5 (not lab 4)",
+      "course": "wl.202520.ME.37500",
+      "dueDate": "2025-04-15T18:00:00",
+      "link": "https://www.gradescope.com/courses/937531",
+      "submitted": false
     }
   ]
 };
