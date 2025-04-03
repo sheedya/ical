@@ -302,8 +302,8 @@ assignments = {
       "title": "Exam 2 rework assignment",
       "course": "wl.202520.ME.37500",
       "dueDate": "2025-04-03T18:00:00",
-      "link": "https://www.gradescope.com/courses/937531/assignments/6012709/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/937531/assignments/6012709/submissions/322255864",
+      "submitted": true
     }
   ]
 };
