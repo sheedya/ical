@@ -125,6 +125,13 @@ assignments = {
       "dueDate": "2025-04-08T23:59:00",
       "link": "https://www.gradescope.com/courses/948547",
       "submitted": false
+    },
+    {
+      "title": "Quiz 05 (Boregowda)",
+      "course": "ME 354",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/948547",
+      "submitted": false
     }
   ],
   "ME30801": [
