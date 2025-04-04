@@ -60,8 +60,8 @@ assignments = {
       "title": "Project: instructor meeting",
       "course": "ME 354",
       "dueDate": "2025-04-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/948547",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948547/assignments/5792416/submissions/322294426",
+      "submitted": true
     },
     {
       "title": "Project: video submission",
