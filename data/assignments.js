@@ -311,6 +311,13 @@ assignments = {
       "dueDate": "2025-04-03T18:00:00",
       "link": "https://www.gradescope.com/courses/937531/assignments/6012709/submissions/322255864",
       "submitted": true
+    },
+    {
+      "title": "Prelab 6",
+      "course": "wl.202520.ME.37500",
+      "dueDate": "2025-04-14T08:30:00",
+      "link": "https://www.gradescope.com/courses/937531",
+      "submitted": false
     }
   ]
 };
