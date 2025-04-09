@@ -123,8 +123,8 @@ assignments = {
       "title": "Homework 9",
       "course": "ME 354",
       "dueDate": "2025-04-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/948547",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948547/assignments/6018723/submissions/323679615",
+      "submitted": true
     },
     {
       "title": "Quiz 05 (Boregowda)",
@@ -299,7 +299,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab 5 (not lab 4)",
+      "title": "Lab 5",
       "course": "wl.202520.ME.37500",
       "dueDate": "2025-04-15T18:00:00",
       "link": "https://www.gradescope.com/courses/937531",
